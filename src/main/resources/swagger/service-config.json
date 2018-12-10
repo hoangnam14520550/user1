@@ -1,0 +1,12 @@
+{
+  "artifactId": "user",
+  "basePackage": "com.dxc.user",
+  "apiPackage": "com.dxc.user.api",
+  "configPackage": "com.dxc.user.api.config",
+  "modelPackage": "com.dxc.user.api.model",
+  "delegatePattern": "true",
+  "hideGenerationTimestamp": "true",
+  "useBeanValidation": "true",
+  "dateLibrary": "joda",
+  "sourceFolder": "generated-sources/src/main/java"
+}
